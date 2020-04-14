@@ -1,0 +1,5 @@
+-What is this?
+it is a program that searches lines of .txt files to find a specific word. Works great if you have a lot of .txt files like me and store reminders and data or definitions and instructions in them. In other words lets say you have a bunch of .txt files with definitions in them (school related) and you dont feel like going trough them all you can just use this simple program.
+-Searches all text files in current dir and 2 dirs under.
+
+some text to try out things. THIS IS SOME TEXT I AM NOT YELLING
